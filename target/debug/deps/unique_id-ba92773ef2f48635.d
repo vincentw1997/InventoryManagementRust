@@ -1,0 +1,8 @@
+/Users/vincentwahyudi/Desktop/Vincent(new)/1. FH Würzburg Schweinfurt/Classes/2 Semester/1. Rust Programming for Safety Critical Systems/Project Rust/Projectinventory/target/debug/deps/unique_id-ba92773ef2f48635.rmeta: /Users/vincentwahyudi/.cargo/registry/src/github.com-1ecc6299db9ec823/unique_id-0.1.5/src/lib.rs /Users/vincentwahyudi/.cargo/registry/src/github.com-1ecc6299db9ec823/unique_id-0.1.5/src/random.rs /Users/vincentwahyudi/.cargo/registry/src/github.com-1ecc6299db9ec823/unique_id-0.1.5/src/sequence.rs /Users/vincentwahyudi/.cargo/registry/src/github.com-1ecc6299db9ec823/unique_id-0.1.5/src/string.rs
+
+/Users/vincentwahyudi/Desktop/Vincent(new)/1. FH Würzburg Schweinfurt/Classes/2 Semester/1. Rust Programming for Safety Critical Systems/Project Rust/Projectinventory/target/debug/deps/unique_id-ba92773ef2f48635.d: /Users/vincentwahyudi/.cargo/registry/src/github.com-1ecc6299db9ec823/unique_id-0.1.5/src/lib.rs /Users/vincentwahyudi/.cargo/registry/src/github.com-1ecc6299db9ec823/unique_id-0.1.5/src/random.rs /Users/vincentwahyudi/.cargo/registry/src/github.com-1ecc6299db9ec823/unique_id-0.1.5/src/sequence.rs /Users/vincentwahyudi/.cargo/registry/src/github.com-1ecc6299db9ec823/unique_id-0.1.5/src/string.rs
+
+/Users/vincentwahyudi/.cargo/registry/src/github.com-1ecc6299db9ec823/unique_id-0.1.5/src/lib.rs:
+/Users/vincentwahyudi/.cargo/registry/src/github.com-1ecc6299db9ec823/unique_id-0.1.5/src/random.rs:
+/Users/vincentwahyudi/.cargo/registry/src/github.com-1ecc6299db9ec823/unique_id-0.1.5/src/sequence.rs:
+/Users/vincentwahyudi/.cargo/registry/src/github.com-1ecc6299db9ec823/unique_id-0.1.5/src/string.rs:
